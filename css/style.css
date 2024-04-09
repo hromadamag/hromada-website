@@ -558,15 +558,16 @@ body {
 .fbody__par {
 }
 
-.fbody__par:last-child {
+/* .fbody__par:last-child {
     margin: 5px 0 0 0;
-}
+} */
 
 .footer__link {
     position: relative;
 }
 
 .fbody__author {
+    display: none;
     font-size: 1rem;
 }
 
